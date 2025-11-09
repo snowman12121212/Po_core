@@ -9,6 +9,19 @@
 [![Contributions: Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)]()
 
 ---
+👉 Reviews welcome: https://github.com/hiroshitanaka-creator/Po_core/discussions
+
+## Contribution Tracks
+- 👩‍💻 AI Track: start with /04_modules and CLI. Labels: `ai-easy`, `good first issue`
+- 📚 Philosophy Track: start with /05_research and /glossary. Labels: `phil-easy`
+- 🌉 Bridge Track: translate checklists to scoring functions. Label: `bridge`
+
+Quick links:
+- Modules: https://github.com/hiroshitanaka-creator/Po_core/tree/main/04_modules
+- Research: https://github.com/hiroshitanaka-creator/Po_core/tree/main/05_research
+- Good first issues: https://github.com/hiroshitanaka-creator/Po_core/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+- Discussions: https://github.com/hiroshitanaka-creator/Po_core/discussions
+
 
 ## What is Po_core?
 
