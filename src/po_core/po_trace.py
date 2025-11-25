@@ -1,21 +1,18 @@
 """
-Po_trace: Reasoning Audit Log Module
+Po_trace: Reasoning Audit Log Module (stub)
 
-Tracks and logs the complete reasoning process,
-including what was said and what was not said.
+This module will later:
+- receive structured reasoning data from Po_self
+- persist detailed trace logs for inspection and visualization
 """
 
-import click
 from rich.console import Console
 
 console = Console()
 
 
 def cli() -> None:
-    """Po_trace CLI entry point"""
+    """Po_trace CLI entry point (stub only)."""
     console.print("[bold green]🔍 Po_trace - Reasoning Audit Log[/bold green]")
-    console.print("Implementation coming soon...")
-
-
-if __name__ == "__main__":
-    cli()
+    console.print("Po_trace is not implemented yet.")
+    console.print("Planned: `po-core trace \"...\"` to inspect reasoning logs.")
